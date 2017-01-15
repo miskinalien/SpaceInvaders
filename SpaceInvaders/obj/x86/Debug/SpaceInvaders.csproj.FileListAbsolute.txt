@@ -1,0 +1,16 @@
+U:\Travail\C#\svn1\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+U:\Travail\C#\svn1\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+U:\Travail\C#\svn1\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+U:\Travail\C#\svn1\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.GameForm.resources
+U:\Travail\C#\svn1\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.Properties.Resources.resources
+U:\Travail\C#\svn1\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.GenerateResource.Cache
+U:\Travail\C#\svn1\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+U:\Travail\C#\svn1\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+E:\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.exe
+E:\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.pdb
+E:\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+E:\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+E:\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csprojResolveAssemblyReference.cache
+E:\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.GameForm.resources
+E:\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.Properties.Resources.resources
+E:\SpaceInvaders\SpaceInvaders\obj\x86\Debug\SpaceInvaders.csproj.GenerateResource.Cache
